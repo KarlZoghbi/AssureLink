@@ -5,14 +5,14 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
-> A mobile app for ordering coffee on-the-go, making it easier for coffee lovers to get their favorite beverages without waiting in line.
+> A mobile app for getting insurance, making it easier for people to get insured with a AI-powered risk assesment so they can get the most accurate risk results.
 >
-> Coffee Express aims to streamline the coffee-ordering process by providing a user-friendly platform for customers to place orders and pick up their coffee at their convenience. We believe in enhancing the coffee experience by saving time and ensuring customer satisfaction.
+>Assurelink aims to provide the best risk outcomes so that the client pays according to his results.. We believe in enhancing the insurance experience by saving time, money and ensuring customer satisfaction.
 
 ### User Stories
-- As a user, I want to browse the menu, so I can find my favorite coffee drinks.
-- As a user, I want to customize my order, so I can add or remove ingredients according to my preferences.
-- As a user, I want to pay for my order through the app, so I can avoid waiting in line at the store.
+- As a user, I want to choose my insurance type, so I can get insured based on my needs.
+- As a user, I want to pay via blockchain, so I can feel safe with my payments.
+- As a admin, I want to add or change the risk assesment questions, so I can always get the most accurate risk results.
 
 <br><br>
 
